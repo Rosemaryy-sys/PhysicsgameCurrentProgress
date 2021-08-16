@@ -1,0 +1,6 @@
+// CGX FILE. OTHER FILE IN materials IS A CGFX FILE "plastic.cgfx"
+// CGX Material - Plastic, Used with plastic.cgfx in materials file.
+--
+Connected to "plastic.cgfx" in materials folder/file.
+--
+Used for plastic.png in materials folder/file.
